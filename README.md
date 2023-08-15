@@ -75,7 +75,7 @@ If you are a Github fans, please feel free to create an issue in [Keptab Issues]
 [Keptab]: https://keptab.com/
 [Issues]: https://github.com/keptab/keptab/issues
 [Chrome]: https://chrome.google.com/webstore/detail/keptab/feodekcipceogpeomnijgmdlmocbggbi
-[Edge]: https://microsoftedge.microsoft.com/addons/detail/keptab/jhajaihldpgefhccepbjdpiimikplhn
+[Edge]: https://microsoftedge.microsoft.com/addons/detail/keptab/jhajaihldpgefhccepbjdpiimikplhng
 [Firefox]: https://addons.mozilla.org/addon/keptab/
 [Opera]: https://addons.opera.com/extensions/details/keptab/
 
